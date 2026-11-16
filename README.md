@@ -86,6 +86,3 @@ Model 10 also provides a good balance with `97.46%` validation accuracy and `0.0
 
 This project demonstrates handwritten digit classification using Artificial Neural Networks. Different neural network architectures and training configurations are compared to identify their effect on model performance.
 
-## Author
-
-Dharineesh D.R.
